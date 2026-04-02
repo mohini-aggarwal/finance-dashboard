@@ -3,7 +3,9 @@
 A modern and responsive finance dashboard built to visualize and manage financial data effectively. This project demonstrates frontend development skills including UI design, component structuring, and state management.
 
 ---
-
+![img1](image.png)
+![img2](image-1.png)
+![img3](image-2.png)
 ## 🚀 Features
 
 ### 📊 Dashboard Overview
@@ -39,6 +41,7 @@ A modern and responsive finance dashboard built to visualize and manage financia
 * Viewer:
 
   * Read-only access (buttons disabled)
+  ![img4](image-4.png)
 
 ### 💡 Insights Section
 
@@ -66,7 +69,7 @@ A modern and responsive finance dashboard built to visualize and manage financia
 * Dark mode support
 
 ---
-
+![img5](image-3.png)
 ## ⚙️ Setup Instructions
 
 1. Clone the repository:
